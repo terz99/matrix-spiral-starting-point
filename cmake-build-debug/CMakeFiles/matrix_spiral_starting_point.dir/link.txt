@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/matrix_spiral_starting_point.dir/main.cpp.o  -o matrix_spiral_starting_point 
